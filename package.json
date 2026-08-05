@@ -1,0 +1,18 @@
+{
+  "name": "baps-kitchen-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "AppsScript.js",
+  "scripts": {
+    "update-sheet": "node scripts/update-google-sheet.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "exceljs": "^4.4.0",
+    "googleapis": "^171.4.0"
+  }
+}

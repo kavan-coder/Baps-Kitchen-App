@@ -1,0 +1,9 @@
+.DS_Store
+node_modules/
+
+# Xcode local user state and build output
+DerivedData/
+*.xcuserstate
+*.xcbkptlist
+Baps Kitchen App.xcodeproj/project.xcworkspace/xcuserdata/
+Baps Kitchen App.xcodeproj/xcuserdata/*/xcdebugger/
